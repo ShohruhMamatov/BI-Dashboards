@@ -4,6 +4,7 @@ This Power BI dashboards provides  insights into monthly sales performance, cust
 📌 **Key Features:**  
 - Interactive filters for region-wise sales analysis  
 - Profitability tracking by product category  
+
 Global Store Dashboard -
  Analyzing worldwide sales performance across different regions, product categories, and revenue trends. Includes interactive filters for region-based insights and sales forecasting.
 
